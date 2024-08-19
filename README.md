@@ -1,13 +1,11 @@
 <h1 align="center">Hi 😊, I'm Sharjeel Khan Niazi</h1>
 <h3 align="center">Full Stack MERN Developer</h3>
-I am an experienced full-stack MERN developer with a strong interest in web3 technology. My background includes 3+ years of working on various blockchain/MERN projects, ranging from Defi and NFT protocols to building sophisticated solutions for blockchain-based startups and businesses.
+I am an experienced full-stack MERN developer with a strong interest in web3 technology. My background includes 5+ years of working on various MERN projects, ranging from Defi and NFT protocols to building sophisticated solutions for blockchain-based startups and businesses.
 
 As a results-oriented and creative professional, I possess a solution-focused mindset. I am deeply passionate about the transformative potential of web3 and its ability to create positive change, and I am committed to contributing to this innovation in any way possible.
 
 
 - 🏢 Visit my company [Dechains](https://www.dechains.com/)
-
-- 👨‍💻 Checkout my portfolio [Sharjeel Khan](https://www.sharjeelkhanniazi.com/)
 
 - 💬 Ask me about **Web3 | NFT | DeFi | MERN**
 
