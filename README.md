@@ -9,7 +9,7 @@ As a results-oriented and creative professional, I possess a solution-focused mi
 
 - 👨‍💻 Checkout my portfolio [Sharjeel Khan](https://www.sharjeelkhanniazi.com/)
 
-- 💬 Ask me about **Web3 | NFT | DeFi**
+- 💬 Ask me about **Web3 | NFT | DeFi | MERN**
 
 - 📫 How to reach me **sharjeelkhan@dechains.com**
 
